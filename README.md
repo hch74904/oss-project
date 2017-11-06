@@ -1,40 +1,50 @@
 # oss-project
 ### Contribute to an Open Source Project
+
 Due: 17 November 2017, 11:59 pm
+
 Create a Github repo ("my-oss-contrib") to show your work in contributing to an open source project.
+
 Write up all your documentation in the README.md file of the repo, using Markdown.
+
 https://guides.github.com/features/mastering-markdown/
+
 https://stackoverflow.com/questions/11804820/embed-a-youtube-video
 
 Steps:
-Go to How to choose (and contribute to) your first open source project
-Find an open source project to which you'd like to contribute
-Follow the steps necessary to make a pull request
-Include the link to the pull request
+1.  Go to How to choose (and contribute to) your first open source project
+2. Find an open source project to which you'd like to contribute
+3. Follow the steps necessary to make a pull request
+4. Include the link to the pull request
 
 #### Grading:
+
 Justification: 20%
-Answering the following questions:
-Why this project?
-How active are the contributors on the project?
-What do you think you can contribute?
-What were your steps in choosing this project?
+
+* Answering the following questions:
+* Why this project?
+* How active are the contributors on the project?
+* What do you think you can contribute?
+* What were your steps in choosing this project?
 
 Documentation: 40% 
-Show your process from forking through editing/adding code all the way to the pull request.
-Either a video screen capture with voice over or screenshots with descriptions
-Examples of written documentation:
+
+* Show your process from forking through editing/adding code all the way to the pull request.
+* Either a video screen capture with voice over or screenshots with descriptions
+* Examples of written documentation:
 
 
 Example of video screen capture with voiceover:
-http://codekarate.com/daily-dose-of-drupal/create-secret-urls-drupal-7-token-content-access
-https://www.youtube.com/watch?v=dSl_qnWO104
-    // your first pull request
+* http://codekarate.com/daily-dose-of-drupal/create-secret-urls-drupal-7-token-content-access
+* https://www.youtube.com/watch?v=dSl_qnWO104
+
 
 Process: 20% 
-How closely do you follow the steps and considerations described in How to choose (and contribute to) your first open source project
+
+* How closely do you follow the steps and considerations described in How to choose (and contribute to) your first open source project
 
 Code change(s): 20%
-How did you improve the project with your code changes?
-What kind of improvements should the end user or the developers experience?
-Show the code changes and tell how it is an improvement.
+
+* How did you improve the project with your code changes?
+* What kind of improvements should the end user or the developers experience?
+* Show the code changes and tell how it is an improvement.
