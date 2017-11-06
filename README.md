@@ -1,7 +1,7 @@
 # oss-project
 ### Contribute to an Open Source Project
 
-[img](http://beta.pif.gov/mygov/images/content/open-source-all-the-things.png)
+![Open Source All The Things](http://beta.pif.gov/mygov/images/content/open-source-all-the-things.png)
 
 **Due: 17 November 2017, 11:59 pm**
 
