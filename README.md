@@ -32,7 +32,8 @@ Documentation: 40%
 * Show your process from forking through editing/adding code all the way to the pull request.
 * Either a video screen capture with voice over or screenshots with descriptions
 * Examples of written documentation:
-
+[CAB process](http://www.christianburk.com/csc548-2017/cab-process.pdf)
+[Creighton Magazine publishing](http://www.christianburk.com/csc548-2017/creighton-magazine-typo3.pdf)
 
 Example of video screen capture with voiceover:
 * http://codekarate.com/daily-dose-of-drupal/create-secret-urls-drupal-7-token-content-access
