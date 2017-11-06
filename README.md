@@ -1,7 +1,9 @@
 # oss-project
 ### Contribute to an Open Source Project
 
-Due: 17 November 2017, 11:59 pm
+[img](http://beta.pif.gov/mygov/images/content/open-source-all-the-things.png)
+
+**Due: 17 November 2017, 11:59 pm**
 
 Create a Github repo ("my-oss-contrib") to show your work in contributing to an open source project.
 
